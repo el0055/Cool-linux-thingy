@@ -27,10 +27,7 @@ This Bash script provides various functionalities for file management in the cur
 ## Running the Script
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/file-management-script.git
-   cd file-management-script
+Download the "cool_script.sh" file and open it in linux.
 
 
 2. Make the script executable:
