@@ -27,7 +27,7 @@ This Bash script provides various functionalities for file management in the cur
 ## Running the Script
 
 1. Download the file:
-Below the README.md file is the "cool_script.sh file. Download the raw "cool_script.sh" file and open it in linux.
+Below the README.md file is the "cool_script.sh" file. Download the raw "cool_script.sh" file and open it in linux.
 
 2. Make the script executable:
 chmod +x file_management_script.sh
